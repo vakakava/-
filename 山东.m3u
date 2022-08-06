@@ -1,6 +1,5 @@
-#EXTM3U
-#EXTINF:-1 ,山东卫视
-https://livealone302.iqilu.com/iqilu/sdtv5555.m3u8
+央视,#genre#
+山东卫视,https://livealone302.iqilu.com/iqilu/sdtv5555.m3u8
 #EXTINF:-1 ,山东齐鲁
 https://livealone302.iqilu.com/iqilu/qlpd5555.m3u8
 #EXTINF:-1 ,山东少儿
