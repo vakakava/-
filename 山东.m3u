@@ -1,6 +1,6 @@
-央视,#genre#
-山东卫视,https://livealone302.iqilu.com/iqilu/sdtv5555.m3u8
-#EXTINF:-1 ,山东齐鲁
-https://livealone302.iqilu.com/iqilu/qlpd5555.m3u8
-#EXTINF:-1 ,山东少儿
-https://livealone302.iqilu.com/iqilu/sepd5555.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1"  group-title="山东",山东卫视
+https://livealone302.iqilu.com/iqilu/sdtv5555.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1"  group-title="山东",山东齐鲁
+https://livealone302.iqilu.com/iqilu/qlpd5555.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1"  group-title="山东",山东少儿
+https://livealone302.iqilu.com/iqilu/sepd5555.m3u8?servicetype=1&IASHttpSessionId=OTT
